@@ -1,0 +1,6 @@
+{
+  "name": "StrongFlow AI",
+  "description": "Plateforme SaaS no-code d'automatisation intelligente pour les PME.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
